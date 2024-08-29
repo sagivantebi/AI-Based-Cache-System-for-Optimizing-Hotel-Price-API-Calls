@@ -1,5 +1,5 @@
 
-# AI-Based Cache System for Optimizing Hotel Price API Calls
+# AI-Based Cache System for Optimizing Hotel Price Search Engine API Calls
 
 ## Overview
 This project aims to optimize search engine API calls for hotel prices by using an AI-based caching system. The system determines the optimal Time to Live (TTL) for cached records based on dynamically calculated `changing_price_rate` values for each vendor and hotel.
