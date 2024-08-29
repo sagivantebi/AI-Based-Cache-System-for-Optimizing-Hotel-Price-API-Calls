@@ -5,7 +5,7 @@
 This project aims to optimize search engine API calls for hotel prices by using an AI-based caching system. The system determines the optimal Time to Live (TTL) for cached records based on dynamically calculated `changing_price_rate` values for each vendor and hotel.
 
 
-![hotel_without_background](https://github.com/user-attachments/assets/8e9b73e4-19aa-4570-9db5-c9409a87f374)
+<img src="https://github.com/user-attachments/assets/8e9b73e4-19aa-4570-9db5-c9409a87f374" alt="hotel_without_background" width="300"/>
 
 
 
