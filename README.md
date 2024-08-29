@@ -4,6 +4,11 @@
 ## Overview
 This project aims to optimize search engine API calls for hotel prices by using an AI-based caching system. The system determines the optimal Time to Live (TTL) for cached records based on dynamically calculated `changing_price_rate` values for each vendor and hotel.
 
+
+![hotel_without_background](https://github.com/user-attachments/assets/8e9b73e4-19aa-4570-9db5-c9409a87f374)
+
+
+
 ## Key Components
 
 - **`cluster_per_vendor_ttt_los.py`**: 
@@ -24,3 +29,12 @@ This project aims to optimize search engine API calls for hotel prices by using 
 ## Requirements
 - Python 3.x
 - Libraries: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `numpy`
+
+## Results
+
+
+The loss heatmap indicates that the average loss is relatively low. Over time, this reduction in losses can lead to significant cost savings by minimizing the number of API calls required.
+
+
+![image](https://github.com/user-attachments/assets/245e7bef-259b-4f8b-910f-00b87872721f)
+
