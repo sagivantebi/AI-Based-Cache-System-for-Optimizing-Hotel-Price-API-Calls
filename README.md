@@ -39,6 +39,5 @@ The loss heatmap indicates that the average loss is relatively low. Over time, t
 ![image](https://github.com/user-attachments/assets/245e7bef-259b-4f8b-910f-00b87872721f)
 
 
-<img src="https://github.com/user-attachments/assets/8e9b73e4-19aa-4570-9db5-c9409a87f374" alt="hotel_without_background" width="300"/>
 
 
